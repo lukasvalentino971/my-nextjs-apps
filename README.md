@@ -26,7 +26,3 @@ A modern, responsive frontend built with **Next.js** for managing products.
 - **API Communication:** Axios
 - **Form Validation:** React Hook Form / Yup
 
----
-
-## 📂 Folder Structure
-
